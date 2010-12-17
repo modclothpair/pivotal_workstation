@@ -1,6 +1,6 @@
 #http://solutions.treypiepmeier.com/2010/02/28/installing-mysql-on-snow-leopard-using-homebrew/
 
-DEFAULT_PIVOTAL_MYSQL_PASSWORD = "password"
+DEFAULT_PIVOTAL_MYSQL_PASSWORD = ""
 
 include_recipe "pivotal_workstation::homebrew"
 
